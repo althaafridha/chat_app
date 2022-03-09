@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181052868228",
+    "project_id": "chat-app-8691a",
+    "storage_bucket": "chat-app-8691a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181052868228:android:e7079c017f5c77a44ea4d1",
+        "android_client_info": {
+          "package_name": "com.althaafridha.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181052868228-9b0vpmg3p6lm589jvggha51hpaal0n6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmUf-l6nxhlyA7A_lPRI2ecyNoa8KaLs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181052868228-9b0vpmg3p6lm589jvggha51hpaal0n6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
